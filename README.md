@@ -2,7 +2,7 @@
 
 Inspired by [https://www.tjmahr.com/secret-santa-graph-traversal/](https://www.tjmahr.com/secret-santa-graph-traversal/)
 
-Allows the creation of Secret Santa Stype pairings of objects.
+Allows the creation of Secret Santa Style pairings of objects.
 
 ## Example
 
