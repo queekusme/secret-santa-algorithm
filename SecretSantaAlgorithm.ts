@@ -1,5 +1,3 @@
-// Solution Inspired By https://www.tjmahr.com/secret-santa-graph-traversal/
-
 interface ISecretSantaPossiblePairing<T>
 {
     player: T;
