@@ -7,7 +7,7 @@ Allows the creation of Secret Santa Style pairings of objects.
 ## Example
 
 ```typescript
-import { SecretSantaAlgorithm } from "https://deno.land/x/secret_santa@v1.0.0/mod.ts";
+import { SecretSantaAlgorithm } from "https://deno.land/x/secret_santa/mod.ts";
 
 const pairings = SecretSantaAlgorithm.generate([
     "player_1", "player_2", "player_3", "player_4", "player_5", "player_6", "player_7", "player_8", "player_9", "player_10"
